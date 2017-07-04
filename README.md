@@ -1,2 +1,2 @@
 # SMMS
-SuperMarketManagementsystem
+new SuperMarketManagementSystem
