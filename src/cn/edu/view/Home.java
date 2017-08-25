@@ -39,7 +39,6 @@ import cn.edu.model.User;
 
 /**
  * @author GaoYisheng 
- * 2017Äê7ÔÂ6ÈÕ
  * TODO
  */
 public class Home {
@@ -49,22 +48,6 @@ public class Home {
 	public JTextField GenderTextField;
 	public JTextField FirstDayTextField;
 	public JTextField PrivilegeTextField;
-
-	/**
-	 * Launch the application.
-	 */
-//	public static void main(String[] args) {
-//		EventQueue.invokeLater(new Runnable() {
-//			public void run() {
-//				try {
-//					Home window = new Home();
-//					window.frame.setVisible(true);
-//				} catch (Exception e) {
-//					e.printStackTrace();
-//				}
-//			}
-//		});
-//	}
 
 	/**
 	 * Create the application.
