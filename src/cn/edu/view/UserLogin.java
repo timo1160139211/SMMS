@@ -33,18 +33,11 @@ import javax.swing.JPasswordField;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-/**
- * @author GaoYisheng 2017Äê7ÔÂ4ÈÕ TODO
- */
 public class UserLogin {
 
 	public JFrame loginFrm;
 	public JTextField userNameTextField;
 	public JPasswordField passwordField;
-//	public User currentUser = new User();
-
-	
-//	public MainView mainView;
 
 	/**
 	 * Launch the application.
@@ -72,13 +65,6 @@ public class UserLogin {
 	 */
 	public UserLogin() {
 		
-//		initialize();
-//	}
-//
-//	/**
-//	 * Initialize the contents of the frame.
-//	 */
-//	private void initialize() {
 		loginFrm = new JFrame();
 		loginFrm.setFont(new Font("Dialog", Font.PLAIN, 15));
 		loginFrm.setTitle("Log In");
